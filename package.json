@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-star-bugs/",
+    "build": "vite build --base=/fson122_html-css_Ilya330/",
     "preview": "vite preview"
   },
   "devDependencies": {
